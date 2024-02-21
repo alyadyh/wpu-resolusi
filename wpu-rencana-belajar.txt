@@ -2,7 +2,9 @@ RENCANA BELAJAR
 - JavaScript Intermediate
 - Tailwind CSS
 - React.js
-- Vue.ja
+- Vue.js
+- Laravel
+- Angular
 - Mobile programming
   - React Native
   - Flutter
