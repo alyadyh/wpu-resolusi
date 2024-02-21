@@ -3,3 +3,8 @@ RENCANA BELAJAR
 - Tailwind CSS
 - React.js
 - Vue.ja
+- Mobile programming
+  - React Native
+  - Flutter
+  - Kotlin
+  - NativeWind
