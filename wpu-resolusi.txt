@@ -1,3 +1,4 @@
 RESOLUSI
 - Konsisten commit code min. 1x sehari
 - Membuat 1 web dan 1 mobile app
+- Kolaborasi dengan developers
