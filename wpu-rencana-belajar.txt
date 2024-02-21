@@ -1,0 +1,5 @@
+RENCANA BELAJAR
+- JavaScript Intermediate
+- Tailwind CSS
+- React.js
+- Vue.ja
