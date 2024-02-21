@@ -5,3 +5,8 @@ RENCANA BELAJAR
 - Vue.js
 - Laravel
 - Angular
+- Mobile programming
+  - React Native
+  - Flutter
+  - Kotlin
+  - NativeWind
